@@ -1,10 +1,26 @@
-<<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="utf-8">
     <title>Nirav Patel</title>
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="./css/master.css">
+
+    <!-- JS Libraries -->
+    <script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.9"></script>
   </head>
   <body>
-    <h1>Coming Soon</h1>
+    <h1>Coming Soon ...</h1>
+    <div id="info-text"></div>
+    <script>
+      var typed = new Typed('#info-text', {
+        strings: ["I&acute;m Nirav Patel ^100",
+                  "I&acute;m Software Engineer ^100",
+                  "I&acute;m still building my portfolio",
+                  "Please check it later"],
+        smartBackspace: true,
+        typeSpeed: 50
+      });
+    </script>
   </body>
 </html>

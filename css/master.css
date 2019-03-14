@@ -1,0 +1,22 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: #062F4F;
+}
+
+h1 {
+  font-size: 56px;
+  color: white;
+  margin: 20% auto 0 auto;
+  text-align: center;
+}
+
+div#info-text {
+  font-size: 32px;
+  color: white;
+  margin: 0 auto 0 auto;
+  text-align: center;
+}
