@@ -1,5 +1,4 @@
-# nish8099.github.io
-Personal Website
+# Personal Website
 
-# Libraries
-- [typed.js](https://nish8099.github.io/)
+## Libraries
+* [typed.js](https://nish8099.github.io/) - A JavaScript Typing Animation Library 
